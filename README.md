@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nathancecixx
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on my culminating project
-- 📫 How to reach me nacec1446@ugcloud.ca
+- 👋 Hi, I’m Nathan
+- 🎓 Getting a bachlour in comp sci
+- 💻 Can code in java, Html, and Css
+- 🧠 Wants to learn python 
 
 <!---
 Nathancecixx/Nathancecixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
