@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathan
 - 🎓 Getting a bachlour in comp sci
-- 💻 Can code in java, Html, and Css
-- 🧠 Wants to learn python 
+- 💻 Code im C, C++, and Java
+- 👾 Hobbyist game maker in my free time
 
 <!---
 Nathancecixx/Nathancecixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
