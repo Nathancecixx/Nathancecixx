@@ -4,9 +4,12 @@
 ## Hi 👋, I'm Nathan!     
 
 <!-- Badges -->
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathancecixx)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-ceci)
-[![Email](https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathancecixx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nathancecixx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-ceci)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nathancecixx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-9475fd?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanceci.com)
+
+
 
 
 
@@ -31,8 +34,5 @@
 <br/>
 <br/>
 
-### E-Portfolio
 
-[![Portfolio Screenshot](https://raw.githubusercontent.com/Nathancecixx/Nathancecixx/main/Portfolio_Demo.PNG)](https://nathanceci.com)
-
-Explore my projects and experience by visiting my [portfolio](https://nathanceci.com).3
+Explore my projects and experience by visiting my [portfolio](https://nathanceci.com).
