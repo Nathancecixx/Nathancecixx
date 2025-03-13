@@ -1,7 +1,7 @@
 <!-- Profile Views -->
 ![Profile views](https://komarev.com/ghpvc/?username=nathancecixx&&style=flat-square)
 
-## Hi 👋, I'm Nathan!     
+## Hey👋, I'm Nathan!     
 
 <!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nathancecixx) 
@@ -21,7 +21,7 @@
  
 </td><td valign="top" width="30%"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancecixx&hide_border=true&layout=compact&bg_color=00FF0000" align="left" style="max-width: 100%; height: auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancecixx&hide_border=true&layout=compact&bg_color=00FF0000&text_color=FFFFFF&title_color=FFFFFF" align="left" style="max-width: 100%; height: auto;" />
 
 </td></tr></table>  
 
