@@ -28,7 +28,7 @@
  
   <br>
   
-  <p>Learn about my projects and experience by visiting my [Portfolio](https://nathanceci.com).</p>
+  Learn about my projects and experience by visiting my [Portfolio](https://nathanceci.com).
 
 </div>
 
