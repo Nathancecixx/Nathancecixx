@@ -9,30 +9,26 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nathancecixx@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My%20Website-9475fd?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanceci.com)
 
-
-
-
-
-
-
-<br/>  
-
-### About Me  
+<div>
+  <div>
+    <h3>About Me</h3>
+    <ul>
+      <li>🎓 Currently getting a bachelor in computer science</li>
+      <li>💻 Learning in C, C++, Python and Javascript</li>
+      <li>👾 Game Jam enthusiast</li>
+      <li>👀 Looking for Co-op opportunities</li>
+    </ul>
+  </div>
  
-</td><td valign="top" width="30%"> 
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancecixx&hide_border=true&layout=compact&bg_color=00FF0000&text_color=FFFFFF&title_color=FFFFFF" 
+         alt="Top Languages" 
+         style="max-width: 100%; height: auto;" />
+  </div>
+ 
+  <br>
+  
+  <p>Learn about my projects and experience by visiting my [Portfolio](https://nathanceci.com).</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancecixx&hide_border=true&layout=compact&bg_color=00FF0000&text_color=FFFFFF&title_color=FFFFFF" align="left" style="max-width: 100%; height: auto;" />
+</div>
 
-</td></tr></table>  
-
-<br/>  
-
-- 🎓 Currently getting a bachelor in computer science
-- 💻 Learning in C, C++, Python and Javascript
-- 👾 Game Jam enthusiast
-- 👀 Looking for Co-op oppertunities
-<br/>
-<br/>
-
-
-Learn about my projects and experience by visiting my [portfolio](https://nathanceci.com).
